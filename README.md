@@ -7,6 +7,7 @@
  - Exploring  AWS cloud technology<br>
  - Passionate about web development<br>
  - Enjoys exploring new places and outdoor adventures
+ 
  📫 How to reach me: k.mantri1512@gmail.com
 </p>
 
